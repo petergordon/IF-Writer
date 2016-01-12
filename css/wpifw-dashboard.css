@@ -1,0 +1,32 @@
+
+#dashboard-header {
+    margin: 10px 20px 0 2px;
+	font-size: 23px;
+    font-weight: 400;
+    padding: 9px 15px 4px 0;
+    line-height: 29px; }
+	
+#welcome-panel {
+	clear: both; }
+	
+div.wrap h1 {
+	display: none; }
+	
+#dashboard-widgets-wrap .welcome-icon:before,
+#dashboard-widgets-wrap .welcome-write-blog:before {	
+
+	content: '\f119';
+    top: -3px;
+	
+    color: #82878c;
+    font: 400 20px/1 dashicons;
+    speak: none;
+    display: inline-block;
+    padding: 0 10px 0 0;
+    top: -1px;
+    position: relative;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-decoration: none!important;
+    vertical-align: top; }		
+
